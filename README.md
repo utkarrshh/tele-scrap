@@ -16,7 +16,7 @@ Using this tool you can easily add so many members from any group to your group.
 
 $ `pkg install git python -y`
 
-$ `git clone https://github.com/AbirHasan2005/TelegramScraper`
+$ `git clone https://github.com/utkarrshh/tele-scrap.git`
 
 $ `cd TelegramScraper`
 
