@@ -128,6 +128,6 @@ for user in users:
             print(re + "[!] Unexpected Error ...")
             continue
     else:
-        print("sleeping for 10 mints")
+        print("sleeping for 10 minutes")
         time.sleep(600)
         n += 1
